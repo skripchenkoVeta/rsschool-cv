@@ -1,0 +1,23 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-size: 14px;
+    font-family: "Helvetica", "Arial", sans-serif;
+  }
+p {
+    font-size: 16px;
+  }
+blockquote {
+    font-size: 24px;
+    color: #242362;
+  }
+  
+  h1, h2 {
+    border-bottom: 3px solid #eaecef;
+    color: #24292e;
+  }
+  li {
+      font-size:16px;
+      color: #24292e;
+      padding: 3px;
+  }
